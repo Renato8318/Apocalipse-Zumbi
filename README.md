@@ -1,7 +1,7 @@
 # Apocalipse-Zumbi
 Um jogo de sobrevivência ao apocalipse zumbi criado na Unity
 
-Teremos uma heroí, que se defenderá de ataques zumbis atirando neles. Se eles encostarem nele, a partida é encerrada por meio do famoso Game Over, mas poderemos clicar na tela para iniciar uma nova partida.
+Teremos um heroí, que se defenderá de ataques zumbis atirando neles. Se eles encostarem nele, a partida é encerrada por meio do famoso Game Over, mas poderemos clicar na tela para iniciar uma nova partida.
 
 O desenvolvimento do projeto partiu do princípio de que já temos todas as artes que serão utilizadas e, a partir delas:
 
